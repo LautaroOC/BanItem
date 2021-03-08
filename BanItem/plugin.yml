@@ -1,0 +1,10 @@
+main: com.lauti.item.Item
+name: Esmeralda 
+version: 1.0
+author: Renzo
+
+
+commands:
+  esmeralda:
+    description: Te da 64 esmeraldas.
+    usage: /<command>
